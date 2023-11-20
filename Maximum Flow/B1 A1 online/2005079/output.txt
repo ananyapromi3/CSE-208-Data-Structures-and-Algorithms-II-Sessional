@@ -1,0 +1,8 @@
+19
+(0, 3) -> 3 dances
+(1, 7) -> 3 dances
+(2, 4) -> 3 dances
+(3, 5) -> 3 dances
+(4, 5) -> 1 dances
+(4, 6) -> 3 dances
+(6, 2) -> 3 dances

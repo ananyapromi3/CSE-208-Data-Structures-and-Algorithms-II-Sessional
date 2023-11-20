@@ -1,0 +1,9 @@
+Prim-Jarnik Algorithm:
+Total weight = 34
+Root node = 0
+0 4
+0 6
+1 2
+1 4
+2 5
+3 6

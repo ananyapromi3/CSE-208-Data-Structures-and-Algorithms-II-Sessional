@@ -1,0 +1,2 @@
+Most reliable path score: 0.684
+0 -> 3 -> 5 -> 6
